@@ -4,7 +4,7 @@ Social Fragmentation Index
 Derived from a method included in;
 Congdon, Peter (2013) Assessing the Impact of Socioeconomic Variables on Small Area Variations in Suicide Outcomes in England. Int J Environ Res Public Health. 10(1): 158–177. 
 
-The below model uses neighbourhood level census data in the UK.
+The model uses neighbourhood level census data in the UK.
 Standard scores are calculated for the below metrics for each ‘neighbourhood’ area, added together and a final ‘Social Fragmentation Index’ (z score) is calculated.
 All metrics are weighted equally. The direction of the final scores is;  more ‘socially fragmented’ = higher scores, less ‘socially fragmented = lower scores’.
 
